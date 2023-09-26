@@ -8,5 +8,6 @@ To run project in client you need to install react package "npm i" you can run i
 To run project in server you need to install java package. "mvn clean install" you can run it with:"mvn clean install"
 
 You can change the backend depend on what information you want to show, also you need to create Db to run the project.
+In this project we take main informations from an EXCEL file!
 
 THIS BACKEND IS JUST FOR DEMO PURPOSE!!!
